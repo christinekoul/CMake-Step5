@@ -1,22 +1,22 @@
 Determining if the log exist failed with the following output:
 Change Dir: /mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_0271e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_0271e.dir/build.make CMakeFiles/cmTC_0271e.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_7365c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7365c.dir/build.make CMakeFiles/cmTC_7365c.dir/build
 make[1]: Entering directory '/mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_0271e.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_0271e.dir/CheckSymbolExists.c.o   -c /mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_0271e
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0271e.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_0271e.dir/CheckSymbolExists.c.o  -o cmTC_0271e 
-CMakeFiles/cmTC_0271e.dir/CheckSymbolExists.c.o: In function `main':
+Building C object CMakeFiles/cmTC_7365c.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_7365c.dir/CheckSymbolExists.c.o   -c /mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_7365c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7365c.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_7365c.dir/CheckSymbolExists.c.o  -o cmTC_7365c 
+CMakeFiles/cmTC_7365c.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x1b): undefined reference to `log'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_0271e.dir/build.make:97: recipe for target 'cmTC_0271e' failed
-make[1]: *** [cmTC_0271e] Error 1
+CMakeFiles/cmTC_7365c.dir/build.make:97: recipe for target 'cmTC_7365c' failed
+make[1]: *** [cmTC_7365c] Error 1
 make[1]: Leaving directory '/mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_0271e/fast' failed
-make: *** [cmTC_0271e/fast] Error 2
+Makefile:126: recipe for target 'cmTC_7365c/fast' failed
+make: *** [cmTC_7365c/fast] Error 2
 
 File /mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
@@ -36,22 +36,22 @@ int main(int argc, char** argv)
 Determining if the exp exist failed with the following output:
 Change Dir: /mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_38532/fast"
-/usr/bin/make -f CMakeFiles/cmTC_38532.dir/build.make CMakeFiles/cmTC_38532.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_b0e4d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b0e4d.dir/build.make CMakeFiles/cmTC_b0e4d.dir/build
 make[1]: Entering directory '/mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_38532.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_38532.dir/CheckSymbolExists.c.o   -c /mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_38532
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_38532.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_38532.dir/CheckSymbolExists.c.o  -o cmTC_38532 
-CMakeFiles/cmTC_38532.dir/CheckSymbolExists.c.o: In function `main':
+Building C object CMakeFiles/cmTC_b0e4d.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_b0e4d.dir/CheckSymbolExists.c.o   -c /mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_b0e4d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b0e4d.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_b0e4d.dir/CheckSymbolExists.c.o  -o cmTC_b0e4d 
+CMakeFiles/cmTC_b0e4d.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x1b): undefined reference to `exp'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_38532.dir/build.make:97: recipe for target 'cmTC_38532' failed
-make[1]: *** [cmTC_38532] Error 1
+CMakeFiles/cmTC_b0e4d.dir/build.make:97: recipe for target 'cmTC_b0e4d' failed
+make[1]: *** [cmTC_b0e4d] Error 1
 make[1]: Leaving directory '/mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_38532/fast' failed
-make: *** [cmTC_38532/fast] Error 2
+Makefile:126: recipe for target 'cmTC_b0e4d/fast' failed
+make: *** [cmTC_b0e4d/fast] Error 2
 
 File /mnt/c/Users/kouloc/Desktop/Spring2020/OSS/CMake-Step5/Step5_build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
